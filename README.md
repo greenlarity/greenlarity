@@ -1,4 +1,4 @@
-Hi! My name is Dmitry Viktorov :man_pouting:
+Hi! My name is Dmitry Viktorov 👱‍♂️
 ========================================================================================================================================
 
 🌍  I am a Front-End Developer based in St. Petersburg, Russia.
